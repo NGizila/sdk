@@ -302,6 +302,8 @@ type UserFilters struct {
 	BaseUserFilters
 	// User must change password from WebClient/REST API at next login.
 	RequirePasswordChange bool `json:"require_password_change,omitempty"`
+	// AdditionalEmails defines additional email addresses
+	AdditionalEmails []string `json:"additional_emails,omitempty"`
 	// Time-based one time passwords configuration
 	TOTPConfig TOTPConfig `json:"totp_config,omitempty"`
 	// Recovery codes to use if the user loses access to their second factor auth device.
