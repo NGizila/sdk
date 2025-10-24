@@ -14,7 +14,7 @@
 
 package sdk
 
-import "github.com/sftpgo/sdk/kms"
+import "github.com/NGizila/sftpgo/sdk/kms"
 
 // FilesystemProvider defines the supported storage filesystems
 type FilesystemProvider int

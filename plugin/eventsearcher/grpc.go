@@ -18,7 +18,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/sftpgo/sdk/plugin/eventsearcher/proto"
+	"github.com/NGizila/sftpgo/sdk/plugin/eventsearcher/proto"
 )
 
 const (
