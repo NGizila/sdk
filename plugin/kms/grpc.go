@@ -18,7 +18,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/NGizila/sftpgo/sdk/plugin/kms/proto"
+	"github.com/NGizila/sdk/plugin/kms/proto"
 )
 
 const (

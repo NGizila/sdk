@@ -18,7 +18,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/NGizila/sftpgo/sdk/kms"
+	"github.com/NGizila/sdk/kms"
 )
 
 // Web Client/user REST API restrictions

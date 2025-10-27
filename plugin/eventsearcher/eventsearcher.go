@@ -22,7 +22,7 @@ import (
 	"github.com/hashicorp/go-plugin"
 	"google.golang.org/grpc"
 
-	"github.com/NGizila/sftpgo/sdk/plugin/eventsearcher/proto"
+	"github.com/NGizila/sdk/plugin/eventsearcher/proto"
 )
 
 const (

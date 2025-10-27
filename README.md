@@ -1,6 +1,6 @@
 # SFTPGo SDK
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/NGizila/sftpgo/sdk.svg)](https://pkg.go.dev/github.com/NGizila/sftpgo/sdk)
+[![Go Reference](https://pkg.go.dev/badge/github.com/NGizila/sdk.svg)](https://pkg.go.dev/github.com/NGizila/sdk)
 
 The SFTPGo SDK contains code useful for developing SFTPGo plugins.
 
