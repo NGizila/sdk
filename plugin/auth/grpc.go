@@ -18,7 +18,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/sftpgo/sdk/plugin/auth/proto"
+	"github.com/NGizila/sdk/plugin/auth/proto"
 )
 
 const (

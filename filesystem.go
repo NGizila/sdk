@@ -14,7 +14,7 @@
 
 package sdk
 
-import "github.com/sftpgo/sdk/kms"
+import "github.com/NGizila/sdk/kms"
 
 // FilesystemProvider defines the supported storage filesystems
 type FilesystemProvider int
@@ -172,6 +172,7 @@ type BaseGCSFsConfig struct {
 	CredentialFile string `json:"-"`
 	// 0 explicit, 1 automatic
 	AutomaticCredentials int    `json:"automatic_credentials,omitempty"`
+	Endpoint             string `json:"endpoint,omitempty"`
 	StorageClass         string `json:"storage_class,omitempty"`
 	// The ACL to apply to uploaded objects. Leave empty to use the default ACL.
 	// For more information and available ACLs, refer to the JSON API here:

@@ -22,7 +22,7 @@ import (
 	"google.golang.org/grpc/status"
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	"github.com/sftpgo/sdk/plugin/metadata/proto"
+	"github.com/NGizila/sdk/plugin/metadata/proto"
 )
 
 const (

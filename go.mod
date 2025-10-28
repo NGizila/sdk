@@ -1,4 +1,4 @@
-module github.com/sftpgo/sdk
+module github.com/NGizila/sdk
 
 go 1.20
 
