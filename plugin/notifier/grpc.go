@@ -20,7 +20,7 @@ import (
 
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	"github.com/NGizila/sdk/plugin/notifier/proto"
+	"github.com/sftpgo/sdk/plugin/notifier/proto"
 )
 
 const (

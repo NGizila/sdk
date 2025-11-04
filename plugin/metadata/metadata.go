@@ -24,7 +24,7 @@ import (
 	"github.com/hashicorp/go-plugin"
 	"google.golang.org/grpc"
 
-	"github.com/NGizila/sdk/plugin/metadata/proto"
+	"github.com/sftpgo/sdk/plugin/metadata/proto"
 )
 
 const (

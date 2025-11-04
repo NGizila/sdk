@@ -24,7 +24,7 @@ import (
 	"github.com/hashicorp/go-plugin"
 	"google.golang.org/grpc"
 
-	"github.com/NGizila/sdk/plugin/notifier/proto"
+	"github.com/sftpgo/sdk/plugin/notifier/proto"
 )
 
 const (
