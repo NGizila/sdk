@@ -20,7 +20,7 @@ import (
 
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	"github.com/NGizila/sdk/plugin/ipfilter/proto"
+	"github.com/sftpgo/sdk/plugin/ipfilter/proto"
 )
 
 const (
